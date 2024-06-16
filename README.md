@@ -1,2 +1,1 @@
-# Kargo-Takip
-# Kargo-Takip
+#Local Kargo Takip
