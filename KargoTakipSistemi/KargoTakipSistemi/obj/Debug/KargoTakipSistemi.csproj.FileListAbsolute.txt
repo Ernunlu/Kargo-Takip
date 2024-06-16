@@ -1,0 +1,23 @@
+c:\users\toshıba\documents\visual studio 2015\Projects\KargoTakipSistemi\KargoTakipSistemi\bin\Debug\KargoTakipSistemi.exe.config
+c:\users\toshıba\documents\visual studio 2015\Projects\KargoTakipSistemi\KargoTakipSistemi\bin\Debug\KargoTakipSistemi.exe
+c:\users\toshıba\documents\visual studio 2015\Projects\KargoTakipSistemi\KargoTakipSistemi\bin\Debug\KargoTakipSistemi.pdb
+c:\users\toshıba\documents\visual studio 2015\Projects\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.csprojResolveAssemblyReference.cache
+c:\users\toshıba\documents\visual studio 2015\Projects\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.ekle.resources
+c:\users\toshıba\documents\visual studio 2015\Projects\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.Form1.resources
+c:\users\toshıba\documents\visual studio 2015\Projects\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.Properties.Resources.resources
+c:\users\toshıba\documents\visual studio 2015\Projects\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.csproj.GenerateResource.Cache
+c:\users\toshıba\documents\visual studio 2015\Projects\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.exe
+c:\users\toshıba\documents\visual studio 2015\Projects\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.pdb
+C:\Users\Toshıba\Desktop\KargoTakipSistemi\KargoTakipSistemi\bin\Debug\KargoTakipSistemi.exe.config
+C:\Users\Toshıba\Desktop\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.exe
+C:\Users\Toshıba\Desktop\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.pdb
+C:\Users\Toshıba\Desktop\KargoTakipSistemi\KargoTakipSistemi\bin\Debug\KargoTakipSistemi.exe
+C:\Users\Toshıba\Desktop\KargoTakipSistemi\KargoTakipSistemi\bin\Debug\KargoTakipSistemi.pdb
+C:\Users\Toshıba\Desktop\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Toshıba\Desktop\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.ekle.resources
+C:\Users\Toshıba\Desktop\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.Form1.resources
+C:\Users\Toshıba\Desktop\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.Properties.Resources.resources
+C:\Users\Toshıba\Desktop\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\Toshıba\Desktop\Dosyalar\KargoTakipSistemi - Kopya\KargoTakipSistemi\bin\Debug\KargoTakipSistemi.exe.config
+C:\Users\Toshıba\Desktop\Dosyalar\KargoTakipSistemi - Kopya\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.exe
+C:\Users\Toshıba\Desktop\Dosyalar\KargoTakipSistemi - Kopya\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.pdb
